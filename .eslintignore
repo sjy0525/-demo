@@ -1,0 +1,4 @@
+# 示例 .eslintignore 内容
+node_modules/
+dist/
+*.config.js
